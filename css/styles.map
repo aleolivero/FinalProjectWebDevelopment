@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"../scss/styles.scss"
+	],
+	"sourcesContent": [
+		"// Contain Styles define by us\r\n\r\n@mixin sizes($width, $height){\r\n    height: $height;\r\n    width: $height;\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ""
+}

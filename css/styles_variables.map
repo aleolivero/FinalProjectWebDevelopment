@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "styles_variables.css",
+	"sources": [
+		"../scss/styles_variables.scss"
+	],
+	"sourcesContent": [
+		"$color_background : rgba(0,0,0,0.1);\r\n\r\n$color_background_card:rgb(223, 222, 222);"
+	],
+	"names": [],
+	"mappings": ""
+}

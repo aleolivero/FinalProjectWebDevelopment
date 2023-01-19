@@ -1,0 +1,6 @@
+// Contain Styles define by us
+
+@mixin sizes($width, $height){
+    height: $height;
+    width: $height;
+}
