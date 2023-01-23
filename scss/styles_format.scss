@@ -170,3 +170,20 @@ body{
     display: flex;
     flex-direction: column;
 }
+
+.carousel-item img {
+    object-fit: cover;
+
+}
+
+.carousel-control-next, .carousel-control-prev {
+    position: absolute;
+    top: 15em;
+  
+}
+.navbar-toggler{
+
+}
+.navbar-toggler-icon{
+
+}

@@ -1,4 +1,4 @@
-/* line 5, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+/* line 5, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
 .body-reg {
   height: 100vh;
   background: rgba(0, 0, 0, 0.1) !important;
@@ -8,7 +8,7 @@
   justify-content: center;
 }
 
-/* line 14, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+/* line 14, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
 .card {
   overflow: hidden;
   border: 0;
@@ -16,30 +16,30 @@
   box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
 }
 
-/* line 21, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+/* line 21, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
 .img-overview {
   width: 45%;
   background: url("../img/img_overview.jpg") center;
   background-size: cover;
 }
 
-/* line 28, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+/* line 28, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
 .card-body {
   padding: 2rem;
   background: #dfdede;
 }
 
-/* line 32, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+/* line 32, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
 .title {
   margin-bottom: 2rem;
 }
 
-/* line 35, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+/* line 35, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
 .form-input, input, span, input::placeholder, input:focus, .form-input input:valid, input:focus::placeholder {
   position: relative;
 }
 
-/* line 38, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+/* line 38, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
 input {
   height: 45px;
   width: 45px;
@@ -53,7 +53,7 @@ input {
   background: transparent;
 }
 
-/* line 50, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+/* line 50, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
 span {
   position: absolute;
   top: 10px;
@@ -61,29 +61,29 @@ span {
   color: #398AB9;
 }
 
-/* line 57, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+/* line 57, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
 input::placeholder {
   color: black;
   padding-left: 0px;
 }
 
-/* line 62, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+/* line 62, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
 input:focus, .form-input input:valid, input input:valid, span input:valid, input::placeholder input:valid, input:focus input:valid, input:focus::placeholder input:valid {
   border: 2px solid #398AB9;
 }
 
-/* line 66, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+/* line 66, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
 input:focus::placeholder {
   color: #1C658C;
 }
 
-/* line 70, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+/* line 70, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
 .custom-checkbox .custom-control-input:checked ~ .custom-control-label::before {
   background-color: #398AB9;
   border: 0px;
 }
 
-/* line 74, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+/* line 74, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
 .form-box button[type="submit"], button[type="submit"]:hover button[type="submit"], .btn-social button[type="submit"], .btn-facebook button[type="submit"], .btn-google button[type="submit"], .btn-twitter button[type="submit"] {
   margin-top: 10px;
   border: none;
@@ -98,61 +98,61 @@ input:focus::placeholder {
   padding: 12px;
 }
 
-/* line 87, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+/* line 87, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
 button[type="submit"]:hover {
   background: #398AB9;
 }
 
-/* line 91, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+/* line 91, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
 .forget-link, .register-link {
   color: #398AB9;
   font-weight: bold;
 }
 
-/* line 95, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+/* line 95, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
 .forget-link:hover, .register-link:hover {
   color: #398AB9;
   text-decoration: none;
 }
 
-/* line 99, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+/* line 99, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
 .btn-social {
   color: white;
   border: 0;
   font-weight: bold;
 }
 
-/* line 105, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+/* line 105, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
 .btn-facebook {
   background: #4866a8;
 }
 
-/* line 109, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+/* line 109, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
 .btn-google {
   background: #da3f34;
 }
 
-/* line 113, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+/* line 113, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
 .btn-twitter {
   background: #33ccff;
 }
 
-/* line 117, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+/* line 117, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
 .btn-facebook:hover {
   background: #3d578f;
 }
 
-/* line 121, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+/* line 121, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
 .btn-google:hover {
   background: #bf3b31;
 }
 
-/* line 125, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+/* line 125, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
 .btn-twitter:hover {
   background: #2eb7e5;
 }
 
-/* line 131, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+/* line 131, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
 .dropdown-menu-center {
   left: 50% !important;
   right: auto !important;
@@ -160,45 +160,56 @@ button[type="submit"]:hover {
   transform: translate(-50%, 0) !important;
 }
 
-/* line 138, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+/* line 138, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
 .masthead, .masthead-heading, .masthead-subheading {
   padding-top: calc(6rem);
   padding-bottom: 6rem;
 }
 
-/* line 143, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+/* line 143, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
 .masthead-heading {
   font-size: 2.75rem;
   line-height: 2.75rem;
 }
 
-/* line 149, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+/* line 149, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
 .masthead-subheading {
   font-size: 1.25rem;
 }
 
 @media (min-width: 992px) {
-  /* line 156, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+  /* line 156, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
   .masthead, .masthead-heading, .masthead-subheading {
     padding-top: calc(6rem);
     padding-bottom: 6rem;
   }
-  /* line 160, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+  /* line 160, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
   .masthead-heading {
     font-size: 4rem;
     line-height: 3.5rem;
   }
-  /* line 164, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+  /* line 164, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
   .masthead .masthead-subheading, .masthead-heading .masthead-subheading, .masthead-subheading .masthead-subheading {
     font-size: 1.5rem;
   }
 }
 
-/* line 168, ../../../OneDrive/Cursos/Curso Desarrollo Web/3era Pre Entrega/scss/styles_format.scss */
+/* line 168, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
 body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+}
+
+/* line 174, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
+.carousel-item img {
+  object-fit: cover;
+}
+
+/* line 179, ../../../OneDrive/Cursos/Curso Desarrollo Web/Proyecto Final Desarrollo Web/PFOliveroAimaretti/scss/styles_format.scss */
+.carousel-control-next, .carousel-control-prev {
+  position: absolute;
+  top: 15em;
 }
 
 /*# sourceMappingURL=styles_format.css.map */
